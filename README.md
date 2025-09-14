@@ -3,10 +3,7 @@
 A full-stack Trello-like Kanban application with real-time collaboration features.
 
 ## 🚀 Live Demo
-
-- **Frontend**: [https://mini-trello.vercel.app](https://mini-trello.vercel.app) (placeholder - replace with actual URL)
-- **Backend API**: [https://mini-trello-api.railway.app](https://mini-trello-api.railway.app) (placeholder - replace with actual URL)
-- **API Documentation**: [https://mini-trello-api.railway.app/api-docs](https://mini-trello-api.railway.app/api-docs)
+https://mini-trello-kanban.vercel.app/
 
 ### Demo Credentials
 ```
